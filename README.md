@@ -33,7 +33,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz, aşağıdaki adıml
 
 1.  **Repoyu Klonlayın:**
     ```bash
-    git clone https://github.com/kullaniciadi/repo-adi.git
+    git clone https://github.com/muzaffersavci/muzaffer-portfolio.git
     cd MuzafferPortfolio
     ```
 
