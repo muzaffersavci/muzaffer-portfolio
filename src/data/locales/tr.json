@@ -1,0 +1,60 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımda",
+        "skills": "Yetenekler",
+        "projects": "Projeler",
+        "contact": "İletişim"
+    },
+    "hero": {
+        "greeting": "Merhaba, Ben",
+        "title": "Bilgisayar Mühendisliği Öğrencisi",
+        "description": "Şu anda İstanbul Rumeli Üniversitesinde  Bilgisayar Mühendisliği öğrencisiyim. Aynı zamanda Yapay Zeka ve Teknoloji Akademisi 5. dönem bursiyeri olarak teknoloji ve inovasyon alanlarında çalışmalarımı sürdürüyorum.",
+        "downloadCV": "CV İndir",
+        "contactMe": "İletişime Geç"
+    },
+    "about": {
+        "title": "Hakkımda",
+        "description": "Merhaba, ben Muzaffer Savcıoğlu. 2005 yılında İstanbul'da doğdum. Teknolojiye ve inovasyona olan merakım beni mühendislik dünyasına yönlendirdi. Şu anda İstanbul Rumeli Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak eğitimime devam ediyorum. Ayrıca, Yapay Zeka ve Teknoloji Akademisi 5. dönem bursiyeri olarak yapay zeka bölümünde aktif rol almaktayım.\n\nKariyer hedefimi Yapay Zeka geliştiriciliği ve modern yazılım teknolojileri üzerine kurguluyorum. Karmaşık problemleri kodlarla çözmekten keyif alıyorum. Ancak hayat benim için sadece ekrandan ibaret değil; disiplinimi spora, yaratıcılığımı ise müziğe borçluyum. İyi derecede gitar, piyano ve bağlama çalabiliyorum. Aynı zamanda aktif bir spor izleyicisi ve sporcuyum. Hem dijital dünyada hem de gerçek hayatta sürekli gelişime inanıyorum.",
+        "click_to_open": "Açmak için tıklayın"
+    },
+    "skills": {
+        "title": "Yetenekler & Teknolojiler",
+        "certificates": "Sertifikalarım & Başarılarım",
+        "categories": {
+            "programming": "Programlama Dilleri",
+            "ai_data": "Yapay Zeka & Veri Bilimi",
+            "web_tools": "Web & Araçlar",
+            "soft_skills": "Sosyal Beceriler & Diğer"
+        }
+    },
+    "projects": {
+        "title": "Projelerim",
+        "viewProject": "İncele",
+        "filterAll": "Tümü",
+        "titles": {
+            "moodify": "Moodify - Duygu Analizli Müzik Önerisi",
+            "alaz": "ALAZ Yangın Müdahale Sistemi",
+            "football": "Futbol Sahası Yol Analizi",
+            "rumelicare": "RumeliCare Klinik Veritabanı",
+            "sjf": "İşletim Sistemleri Algoritma Analizi",
+            "clock": "Dijital Sistem Saati (Assembly)"
+        },
+        "desc": {
+            "moodify": "Türkçe metinlerin duygusal tonunu analiz edip (BERT) ruh halinize uygun müzik önerileri sunan interaktif yapay zeka uygulaması. 'Fena değil' gibi karmaşık ifadeleri anlayabilecek mantık katmanına sahiptir.",
+            "alaz": "Tech Istanbul İnovasyon Kampı'nda 1.lik ödülü alan projemiz. Yapay zeka destekli drone filosu ile orman yangınlarına erken müdahale sistemi.",
+            "football": "Algoritma Analizi dersi için A*, Dijkstra, BFS ve Gradyan algoritmalarını karşılaştıran; topun rakiplerden kaçarak hedefe ulaşma sürelerini ve yollarını analiz eden proje.",
+            "rumelicare": "Klinik yönetimi için geliştirilen kapsamlı SQL veritabanı projesi. MySQL Workbench kullanılarak tasarlanmış ER diyagramları ve sorgular içerir.",
+            "sjf": "İşletim Sistemleri dersi için geliştirilen; SJF (Shortest Job First) ve Round Robin algoritmalarının performans metriklerini (bekleme süreleri vb.) karşılaştıran analiz aracı.",
+            "clock": "Mikroişlemciler dersi için Assembly diliyle geliştirilen; tarih, saat, dakika ve saniye bilgisini gerçek zamanlı gösteren dijital saat simülasyonu."
+        }
+    },
+    "contact": {
+        "title": "İletişim",
+        "name": "İsim Soyisim",
+        "email": "E-posta Adresi",
+        "message": "Mesajınız",
+        "send": "Gönder",
+        "success": "Mail istemciniz açılıyor..."
+    }
+}

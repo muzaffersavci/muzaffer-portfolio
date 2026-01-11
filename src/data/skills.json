@@ -1,0 +1,98 @@
+[
+    {
+        "category": "skills.categories.programming",
+        "items": [
+            {
+                "name": "Python",
+                "level": 80
+            },
+            {
+                "name": "C / C++",
+                "level": 60
+            },
+            {
+                "name": "Java",
+                "level": 55
+            },
+            {
+                "name": "HTML5 / CSS3",
+                "level": 60
+            },
+            {
+                "name": "Assembly",
+                "level": 45
+            }
+        ]
+    },
+    {
+        "category": "skills.categories.ai_data",
+        "items": [
+            {
+                "name": "TensorFlow",
+                "level": 80
+            },
+            {
+                "name": "PyTorch",
+                "level": 75
+            },
+            {
+                "name": "Transformers (Hugging Face)",
+                "level": 85
+            },
+            {
+                "name": "Data Analysis",
+                "level": 70
+            },
+            {
+                "name": "NLP / BERT",
+                "level": 82
+            }
+        ]
+    },
+    {
+        "category": "skills.categories.web_tools",
+        "items": [
+            {
+                "name": "React",
+                "level": 50
+            },
+            {
+                "name": "Gradio",
+                "level": 65
+            },
+            {
+                "name": "MySQL Workbench",
+                "level": 55
+            },
+            {
+                "name": "Git & GitHub",
+                "level": 60
+            },
+            {
+                "name": "Docker",
+                "level": 45
+            }
+        ]
+    },
+    {
+        "category": "skills.categories.soft_skills",
+        "items": [
+            {
+                "name": "Team Collaboration",
+                "level": 65
+            },
+            {
+                "name": "Effective Speaking",
+                "level": 60
+            },
+            {
+                "name": "Problem Solving",
+                "level": 65
+            },
+            {
+                "name": "Music (Piano, Guitar, Bağlama)",
+                "level": 85
+            }
+        ]
+    }
+]

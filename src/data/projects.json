@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "projects.titles.moodify",
+        "category": "AI & NLP",
+        "description": "projects.desc.moodify",
+        "image": "/images/projects/moodify.png",
+        "technologies": [
+            "Python",
+            "Transformers",
+            "PyTorch",
+            "Gradio",
+            "NLP",
+            "BERT"
+        ],
+        "githubUrl": "https://github.com/muzaffersavci",
+        "demoUrl": "https://huggingface.co/spaces/muzaffersavci/Moodify"
+    },
+    {
+        "id": 2,
+        "title": "projects.titles.alaz",
+        "category": "Innovation & AI",
+        "description": "projects.desc.alaz",
+        "image": "/images/projects/alaz.png",
+        "technologies": [
+            "AI",
+            "Innovation",
+            "Drone Tech",
+            "Teamwork"
+        ],
+        "githubUrl": null,
+        "demoUrl": null
+    },
+    {
+        "id": 3,
+        "title": "projects.titles.football",
+        "category": "Algorithms",
+        "description": "projects.desc.football",
+        "image": "/images/projects/football.png",
+        "technologies": [
+            "A*",
+            "Dijkstra",
+            "BFS",
+            "Gradient Descent",
+            "Algorithms"
+        ],
+        "githubUrl": "https://github.com/muzaffersavci",
+        "demoUrl": null
+    },
+    {
+        "id": 4,
+        "title": "projects.titles.rumelicare",
+        "category": "Database",
+        "description": "projects.desc.rumelicare",
+        "image": "/images/projects/rumelicare.png",
+        "technologies": [
+            "MySQL Workbench",
+            "SQL",
+            "Database Design"
+        ],
+        "githubUrl": "https://github.com/muzaffersavci",
+        "demoUrl": null
+    },
+    {
+        "id": 5,
+        "title": "projects.titles.sjf",
+        "category": "OS / Systems",
+        "description": "projects.desc.sjf",
+        "image": "/images/projects/sjf.png",
+        "technologies": [
+            "C++",
+            "Process Scheduling",
+            "Algorithms"
+        ],
+        "githubUrl": "https://github.com/muzaffersavci",
+        "demoUrl": null
+    },
+    {
+        "id": 6,
+        "title": "projects.titles.clock",
+        "category": "Embedded / Assembly",
+        "description": "projects.desc.clock",
+        "image": "/images/projects/clock.png",
+        "technologies": [
+            "Assembly",
+            "Microprocessors",
+            "Digital Logic"
+        ],
+        "githubUrl": "https://github.com/muzaffersavci",
+        "demoUrl": null
+    }
+]

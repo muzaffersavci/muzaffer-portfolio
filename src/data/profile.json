@@ -1,0 +1,12 @@
+{
+    "name": "Muzaffer Savcıoğlu",
+    "email": "savcioglumuzaffer@gmail.com",
+    "phone": "+90 555 000 00 00",
+    "location": "İstanbul, Türkiye",
+    "social": {
+        "github": "https://github.com/muzaffersavci",
+        "linkedin": "https://www.linkedin.com/in/muzaffersvc/"
+    },
+    "avatar": "/boydan-foto.jpg",
+    "cvFile": "/cv.pdf"
+}
